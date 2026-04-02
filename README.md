@@ -19,9 +19,6 @@ An interactive Streamlit dashboard (`App.py`) provides a professional, single-pa
   7. Inside vs Outside City (Box Plot)
   8. Correlation Heatmap
   9. Monthly Trend & Forecast (Line + Regression)
-  10. City Risk Clustering (PCA Scatter)
-- **ML Models** — Risk classification (Random Forest, Gradient Boosting, Logistic Regression) with ROC curves, cross-validation, and feature importances
-- **K-Means Clustering** — Unsupervised city risk profiling with Elbow Method and PCA visualization
 
 ## 🚀 How to Run
 
