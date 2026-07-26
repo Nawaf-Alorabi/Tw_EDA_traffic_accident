@@ -2,6 +2,14 @@
 
 A comprehensive Exploratory Data Analysis (EDA) of traffic accidents across 16 cities in Saudi Arabia, covering Hijri years 1437–1439.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c50ef4b-2905-4077-97f6-c5f61d9865b1" width="48%">
+  <img src="https://github.com/user-attachments/assets/b4bae70d-f0f5-4a40-91a9-9aa686a8ee90" width="48%">
+</p>
+
+
+
 ## 📊 Dashboard
 
 An interactive Streamlit dashboard (`App.py`) provides a professional, single-page view of the full analysis:
